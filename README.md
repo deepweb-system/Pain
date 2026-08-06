@@ -326,15 +326,16 @@ This bot is created for **educational purposes only**. It is **not** an official
 - **Sonali** (Bug Tester)
 <p align="center">
   <a href="https://open.spotify.com/user/314rqo4d67ftrpitbvrtmpbza5ru">
-    <img src="https://img.shields.io/badge/Spotify-121212?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-e11d48?style=flat&logo=spotify&logoColor=ffffff&labelColor=0f172a" alt="Spotify" />
   </a>
   <a href="https://discord.com/users/482881890886483968">
-    <img src="https://img.shields.io/badge/Discord-121212?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+    <img src="https://img.shields.io/badge/Join_Discord-e11d48?style=flat&logo=discord&logoColor=ffffff&labelColor=0f172a" alt="Discord" />
   </a>
   <a href="https://twitter.com/ahsanhabibmuaz">
-    <img src="https://img.shields.io/badge/Twitter-121212?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Follow_X-e11d48?style=flat&logo=x&logoColor=ffffff&labelColor=0f172a" alt="Twitter" />
   </a>
 </p>
+
 
 
 <div align="center">
