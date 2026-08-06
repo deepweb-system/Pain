@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://ishan-rest.vercel.app/svg/banner/dev4/PAIN_BOT" alt="PAIN BOT" />
-</p>
+<h1 align="center">PAIN BOT</h1>
 <div align="center">
 <!-- Animated Dynamic Typing Banner -->
 <a href="https://drift.rip/muaz">
@@ -322,9 +320,9 @@ This bot is created for **educational purposes only**. It is **not** an official
 
 ---
 
-### 👤 Developer(s):
+<h3><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="26" height="26" align="center" />  Developer(s):</h3>
 
-- <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="22" height="22" align="center" /> **Muaz** (Dev)
+- **Muaz** (Dev)
 - **Sonali** (Bug Tester)
 
 
