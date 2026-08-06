@@ -1,7 +1,5 @@
-<p>
-  <img src="https://raw.githubusercontent.com/deepweb-system/Pain/3354c5c934b598678240d7288066fde623d1d7ca/assets/pain.svg" alt="PAIN"/>
-</p>
 <div align="center">
+    <img src="https://raw.githubusercontent.com/deepweb-system/Pain/3354c5c934b598678240d7288066fde623d1d7ca/assets/pain.svg" alt="PAIN"/>
 <!-- Animated Dynamic Typing Banner -->
 <a href="https://drift.rip/muaz">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=Automated+WhatsApp+Bot;High-Performance+Group+Moderation;Encrypted+Session+Handling;Pain+Themed+WhatsApp+Bot;Developed+by+Muaz" alt="Typing SVG" />
