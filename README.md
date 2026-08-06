@@ -326,28 +326,22 @@ This bot is created for **educational purposes only**. It is **not** an official
 - **Sonali** (Bug Tester)
 <p align="center">
   <a href="https://open.spotify.com/user/314rqo4d67ftrpitbvrtmpbza5ru">
-    <img src="https://img.shields.io/badge/Spotify-0d1117?style=flat-square&logo=spotify&logoColor=1DB954&labelColor=0d1117" alt="Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-bae6fd?style=flat-square&logo=spotify&logoColor=0284c7&labelColor=0f172a" alt="Spotify" />
   </a>
   <a href="https://discord.com/users/482881890886483968">
-    <img src="https://img.shields.io/badge/Join_Me-0d1117?style=flat-square&logo=discord&logoColor=5865F2&labelColor=0d1117" alt="Discord" />
+    <img src="https://img.shields.io/badge/Join_Me-bae6fd?style=flat-square&logo=discord&logoColor=0284c7&labelColor=0f172a" alt="Discord" />
   </a>
   <a href="https://github.com/deepweb-system/pain">
-    <img src="https://hits.sh/github.com/deepweb-system/pain.svg?style=flat-square&label=Visits&color=38bdf8&labelColor=0d1117" alt="Visits" />
+    <img src="https://hits.sh/github.com/deepweb-system/pain.svg?style=flat-square&label=Visits&color=bae6fd&labelColor=0f172a" alt="Visits" />
   </a>
   <a href="https://www.last.fm/user/ahsanhabibmuaz">
-    <img src="https://img.shields.io/badge/Last.fm-0d1117?style=flat-square&logo=lastdotfm&logoColor=D51007&labelColor=0d1117" alt="Last.fm" />
+    <img src="https://img.shields.io/badge/Last.fm-bae6fd?style=flat-square&logo=lastdotfm&logoColor=0284c7&labelColor=0f172a" alt="Last.fm" />
   </a>
   <a href="https://twitter.com/ahsanhabibmuaz">
-    <img src="https://img.shields.io/badge/Follow-0d1117?style=flat-square&logo=x&logoColor=ffffff&labelColor=0d1117" alt="X / Twitter" />
+    <img src="https://img.shields.io/badge/Follow-bae6fd?style=flat-square&logo=x&logoColor=0284c7&labelColor=0f172a" alt="X / Twitter" />
   </a>
 </p>
 
-
-<div align="center">
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-@ahsanhabibmuaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsanhabibmuaz)
-
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
