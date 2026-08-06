@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ishan-rest.vercel.app/svg/banner/dev4/PAIN%20%BOT" alt="PAIN BOT" />
+  <img src="https://ishan-rest.vercel.app/svg/banner/dev4/PAIN_BOT" alt="PAIN BOT" />
 </p>
 <div align="center">
 <!-- Animated Dynamic Typing Banner -->
