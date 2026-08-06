@@ -324,6 +324,23 @@ This bot is created for **educational purposes only**. It is **not** an official
 
 - **Muaz** (Dev)
 - **Sonali** (Bug Tester)
+<p align="center">
+  <a href="https://open.spotify.com/user/314rqo4d67ftrpitbvrtmpbza5ru">
+    <img src="https://img.shields.io/badge/Spotify-0d1117?style=flat-square&logo=spotify&logoColor=1DB954&labelColor=0d1117" alt="Spotify" />
+  </a>
+  <a href="https://discord.com/users/482881890886483968">
+    <img src="https://img.shields.io/badge/Join_Me-0d1117?style=flat-square&logo=discord&logoColor=5865F2&labelColor=0d1117" alt="Discord" />
+  </a>
+  <a href="https://github.com/deepweb-system/pain">
+    <img src="https://hits.sh/github.com/deepweb-system/pain.svg?style=flat-square&label=Visits&color=38bdf8&labelColor=0d1117" alt="Visits" />
+  </a>
+  <a href="https://www.last.fm/user/ahsanhabibmuaz">
+    <img src="https://img.shields.io/badge/Last.fm-0d1117?style=flat-square&logo=lastdotfm&logoColor=D51007&labelColor=0d1117" alt="Last.fm" />
+  </a>
+  <a href="https://twitter.com/ahsanhabibmuaz">
+    <img src="https://img.shields.io/badge/Follow-0d1117?style=flat-square&logo=x&logoColor=ffffff&labelColor=0d1117" alt="X / Twitter" />
+  </a>
+</p>
 
 
 <div align="center">
