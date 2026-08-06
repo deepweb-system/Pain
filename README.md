@@ -17,7 +17,7 @@
 
 > [!CAUTION]
 > 🔒 **This repository is now private.**  
-> Due to security reasons, protecting API credentials, and ensuring project integrity, **Pain-Bot v2.0** is no longer maintained in a public repository. Source code access and active updates are restricted to authorized maintainers.
+> Due to security reasons, protecting API credentials, and ensuring project integrity, **Pain-Bot** is no longer maintained in a public repository. Source code access and active updates are restricted to authorized maintainers.
 
 
 ---
@@ -324,19 +324,32 @@ This bot is created for **educational purposes only**. It is **not** an official
 
 - **Muaz** (Dev)
 - **Sonali** (Bug Tester)
+
+- - -
+### ⚠️ Disclaimer
+
+This bot is created for **educational purposes only**. It is **not** an official WhatsApp product. Using automated/unofficial clients can result in your WhatsApp account being banned — use at your own risk. The developers assume no liability for misuse, spam, or account restrictions.
+
+---
+
+### 👤 Developer(s):
+
+- [**Muaz**](https://github.com/deepweb-system) (Dev)
+- **Sonali** (Bug Tester)
+
 <p align="center">
-  <a href="https://open.spotify.com/user/314rqo4d67ftrpitbvrtmpbza5ru">
-    <img src="https://img.shields.io/badge/Spotify-e11d48?style=flat&logo=spotify&logoColor=ffffff&labelColor=0f172a" alt="Spotify" />
-  </a>
   <a href="https://discord.com/users/482881890886483968">
-    <img src="https://img.shields.io/badge/Join_Discord-e11d48?style=flat&logo=discord&logoColor=ffffff&labelColor=0f172a" alt="Discord" />
-  </a>
-  <a href="https://twitter.com/ahsanhabibmuaz">
-    <img src="https://img.shields.io/badge/Follow_X-e11d48?style=flat&logo=x&logoColor=ffffff&labelColor=0f172a" alt="Twitter" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=---++JOIN+THE+DISCORD+COMMUNITY++---" alt="Discord Header" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://discord.com/users/482881890886483968">
+    <img src="https://lanyard.profile.dev/api/482881890886483968?theme=dark&bg=0d1117&border=5865F2&borderRadius=10px" alt="Live Discord Status" />
+  </a>
+</p>
 
+- - -
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
