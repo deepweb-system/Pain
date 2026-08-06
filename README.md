@@ -48,7 +48,7 @@
 </div>
 
 <details>
-<summary><b>⚙️ Core Systems</b> — how the bot works</summary>
+<summary><b>⚙️ Core Systems</b></summary>
 <br>
 
 - **Dynamic Prefix** — the bot reads its command prefix from `data/prefix.json` on every message, so `.setprefix` (or hand-editing the file) takes effect instantly without a restart.
@@ -326,21 +326,16 @@ This bot is created for **educational purposes only**. It is **not** an official
 - **Sonali** (Bug Tester)
 <p align="center">
   <a href="https://open.spotify.com/user/314rqo4d67ftrpitbvrtmpbza5ru">
-    <img src="https://img.shields.io/badge/Spotify-FF6B00?style=flat&logo=spotify&logoColor=ffffff&labelColor=141414" alt="Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-121212?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Spotify" />
   </a>
   <a href="https://discord.com/users/482881890886483968">
-    <img src="https://img.shields.io/badge/Join_Me-FF6B00?style=flat&logo=discord&logoColor=ffffff&labelColor=141414" alt="Discord" />
-  </a>
-  <a href="https://github.com/deepweb-system/pain">
-    <img src="https://hits.sh/github.com/deepweb-system/pain.svg?style=flat&label=Visits&color=ff6b00&labelColor=141414" alt="Visits" />
-  </a>
-  <a href="https://www.last.fm/user/ahsanhabibmuaz">
-    <img src="https://img.shields.io/badge/Last.fm-FF6B00?style=flat&logo=lastdotfm&logoColor=ffffff&labelColor=141414" alt="Last.fm" />
+    <img src="https://img.shields.io/badge/Discord-121212?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
   </a>
   <a href="https://twitter.com/ahsanhabibmuaz">
-    <img src="https://img.shields.io/badge/Follow-FF6B00?style=flat&logo=x&logoColor=ffffff&labelColor=141414" alt="X / Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-121212?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="Twitter" />
   </a>
 </p>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
