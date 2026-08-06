@@ -354,7 +354,10 @@ This bot is created for **educational purposes only**. It is **not** an official
     <img src="https://lanyard.profile.dev/api/482881890886483968?theme=dark&bg=0d1117&border=5865F2&borderRadius=10px" alt="Live Discord Status" />
   </a>
 </p>
-![Developer Banner 13](https://ishan-rest.vercel.app/svg/banner/dev13/IshanOshada)
+<p align="center">
+  <img src="https://rest.ishanoshada.com/svg/banner/dev12/MUAZ/" alt="Developer Banner" />
+</p>
+
 
 - - -
 
