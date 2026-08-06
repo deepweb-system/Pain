@@ -326,37 +326,11 @@ This bot is created for **educational purposes only**. It is **not** an official
 - **Sonali** (Bug Tester)
 
 - - -
-### ⚠️ Disclaimer
-
-This bot is created for **educational purposes only**. It is **not** an official WhatsApp product. Using automated/unofficial clients can result in your WhatsApp account being banned — use at your own risk. The developers assume no liability for misuse, spam, or account restrictions.
-
----
-
-### ⚠️ Disclaimer
-
-This bot is created for **educational purposes only**. It is **not** an official WhatsApp product. Using automated/unofficial clients can result in your WhatsApp account being banned — use at your own risk. The developers assume no liability for misuse, spam, or account restrictions.
-
----
 
 ### 👤 Developer(s):
 
-- [**Muaz**](https://github.com/deepweb-system) (Dev)
+- <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="28" height="28" align="center" /> [**Muaz**](https://github.com/deepweb-system) (Dev)
 - **Sonali** (Bug Tester)
-
-<p align="center">
-  <a href="https://discord.com/users/482881890886483968">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=---++JOIN+THE+DISCORD+COMMUNITY++---" alt="Discord Header" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://discord.com/users/482881890886483968">
-    <img src="https://lanyard.profile.dev/api/482881890886483968?theme=dark&bg=0d1117&border=5865F2&borderRadius=10px" alt="Live Discord Status" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://rest.ishanoshada.com/svg/banner/dev12/MUAZ/" alt="Developer Banner" />
-</p>
 
 
 - - -
