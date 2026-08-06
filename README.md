@@ -14,16 +14,7 @@
 > [!CAUTION]
 > 🔒 **This repository is now private.**  
 > Due to security reasons, protecting API credentials, and ensuring project integrity, **Pain-Bot** is no longer maintained in a public repository. Source code access and active updates are restricted to authorized maintainers.
-
-
----
-
-### 🔒 Why is this Repository Private?
-
-* 🛡️ **Security & Confidentiality:** Core moderation scripts, administrative triggers, and backend mechanics are hidden to prevent security risks.
-* 🗝️ **Credential & Token Protection:** Guarantees no exposure of session files, auth tokens, or private API keys.
-* 🚫 **Anti-Cloning & Unauthorized Distribution:** Prevents outdated, unverified, or malicious public forks from circulating.
-
+    
 ---
 
 ### 🚀 Key Features:
