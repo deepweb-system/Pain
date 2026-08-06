@@ -324,14 +324,7 @@ This bot is created for **educational purposes only**. It is **not** an official
 
 ### 👤 Developer(s):
 
-- **Muaz** (Dev)
-- **Sonali** (Bug Tester)
-
-- - -
-
-### 👤 Developer(s):
-
-- <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="28" height="28" align="center" /> [**Muaz**](https://github.com/deepweb-system) (Dev)
+- <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="22" height="22" align="center" /> **Muaz** (Dev)
 - **Sonali** (Bug Tester)
 
 
