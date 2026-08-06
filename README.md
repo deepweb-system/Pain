@@ -1,4 +1,6 @@
-<h1 align="center">PAIN BOT</h1>
+<p>
+  <img src="https://raw.githubusercontent.com/deepweb-system/Pain/9aa8cafb5b58c71152ab4d8ee459ef73d68c7daa/assets/pain.svg" alt="PAIN"/>
+</p>
 <div align="center">
 <!-- Animated Dynamic Typing Banner -->
 <a href="https://drift.rip/muaz">
