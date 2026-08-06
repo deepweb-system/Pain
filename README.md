@@ -1,4 +1,6 @@
-<h2 align="center">PAIN BOT</h2>
+<h2 align="center">
+https://ishan-rest.vercel.app/svg/banner/dev4/IshanOshada
+</h2>
 <div align="center">
 <!-- Animated Dynamic Typing Banner -->
 <a href="https://drift.rip/muaz">
