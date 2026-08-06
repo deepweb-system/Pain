@@ -322,5 +322,6 @@ This bot is created for **educational purposes only**. It is **not** an official
 </div>
 
 <div align="center">
+    <br>
   <sub>© Pain-Bot Project. All rights reserved.</sub>
 </div>
