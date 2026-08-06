@@ -3,5 +3,5 @@
 > Due to security reasons, protecting API credentials, and ensuring project integrity, **Pain-Bot** is no longer maintained in a public repository. Source code access and active updates are restricted to authorized maintainers.
 
 <div align="center">
-  <sub>© Pain-Bot Project. All rights reserved by **Muaz**</sub>
+  <sub>© Pain-Bot Project. All rights reserved by <b>Muaz</b></sub>
 </div>
