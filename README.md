@@ -14,8 +14,6 @@
 > [!CAUTION]
 > 🔒 **This repository is now private.**  
 > Due to security reasons, protecting API credentials, and ensuring project integrity, **Pain-Bot** is no longer maintained in a public repository. Source code access and active updates are restricted to authorized maintainers.
-    
-<div><br></div>
 
 - - - 
 
@@ -301,6 +299,11 @@ A full Akatsuki-themed command set dedicated to Pain/Nagato from Naruto.
 
 </details>
 
+- - -
+
+> [!TIP]
+> <div>This WhatsApp account <a href="https://wa.me/966545016052"><b>+966 54 501 6052</b></a> is being used with Pain Bot. You can enjoy pain bot in WhatsApp directly. Have fun!</div>
+<div><br></div>
 - - -
   
 ### ⚠️ Disclaimer:
