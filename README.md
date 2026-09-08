@@ -304,13 +304,14 @@ A full Akatsuki-themed command set dedicated to Pain/Nagato from Naruto.
 > [!TIP]
 > <div>This WhatsApp account <a href="https://wa.me/966545016052"><b>+966 54 501 6052</b></a> is being used with Pain Bot. You can enjoy pain bot in WhatsApp directly. Have fun!</div>
 <div><br></div>
+
 - - -
   
 ### ⚠️ Disclaimer:
 
 This bot is created for **educational purposes only**. It is **not** an official WhatsApp product. Using automated/unofficial clients can result in your WhatsApp account being banned — use at your own risk. The developers assume no liability for misuse, spam, or account restrictions.
 
----
+- - -
 
 <h3><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="26" height="26" align="center" />  Developer(s):</h3>
 
